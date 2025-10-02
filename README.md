@@ -1,1 +1,3 @@
-# BT_DiDong_CaNhan_Võ ANh Quốc
+# BT_DiDong_CaNhan
+Tên: Võ Anh Quốc
+Mssv: 095205002743
