@@ -1,0 +1,7 @@
+Bài 1
+Trong môn học
+Thành thạo kiến thức cơ bản: Nắm vững các khái niệm cốt lõi (ví dụ: vòng đời hoạt động của ứng dụng, UI/UX cơ bản, cách sử dụng các thành phần giao diện chính như Activity/Fragment hoặc View/Composable).
+Tự xây dựng ứng dụng cơ bản: Có khả năng tự mình tạo ra một ứng dụng di động đơn giản (ví dụ: ứng dụng danh sách công việc, máy tính, hoặc ứng dụng hiển thị thông tin tĩnh) có giao diện trực quan và chức năng hoạt động ổn định.
+Biết cách sử dụng GitHub: Sử dụng thành thạo Git/GitHub để quản lý mã nguồn cá nhân và làm việc nhóm hiệu quả.
+Sau môn học
+Có đủ kiến thức nền để phát triển và mong muốn 1 ngày nào đó có thể đi làm và tạo ra sản phẩm thực tế kiếm thu nhập 

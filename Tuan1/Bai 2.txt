@@ -1,0 +1,6 @@
+Bài 2
+Trong tường lai gần (10 năm) lập trình thiết bị di động sẽ phát triển mạnh
+Vì 
+Chuyển đổi số và Doanh nghiệp: Gần như mọi lĩnh vực (Ngân hàng, Y tế, Giáo dục, Bán lẻ, Giao thông vận tải,...) đều đang chuyển đổi sang các nền tảng di động. 
+Sự thống trị của thiết bị di động: Smartphone và tablet đã trở thành thiết bị truy cập Internet chính yếu của hầu hết mọi người trên toàn cầu vì tính tiện lợi và dễ sử dụng
+Xu hướng công nghệ mới: Lập trình di động là nền tảng cho việc tích hợp các công nghệ tiên tiến khác như Iot, AI ...
